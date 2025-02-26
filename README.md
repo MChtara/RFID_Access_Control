@@ -36,10 +36,3 @@ Ce projet utilise un lecteur **RFID MFRC522** avec un microcontrôleur (ex. Ardu
 | **RST**       | 9 |
 | **3.3V**      | 3.3V |
 
-## 📷 Aperçu  
-
-| 🖼️ Composant | 📌 Image |
-|--------------|---------|
-| **Module RFID MFRC522** | ![RFID](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MFRC522_-_Front.jpg/250px-MFRC522_-_Front.jpg) |
-| **Carte RFID** | ![Carte RFID](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/RFID_Card_Transponder.jpg/250px-RFID_Card_Transponder.jpg) |
-
